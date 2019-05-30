@@ -1,0 +1,5 @@
+ModCPKLoad:
+    type: branch
+    link: false
+    addr: 0x101F0C
+    func: AddNewModCPK
